@@ -54,5 +54,5 @@ The model achieved the following accuracy scores:
 
 ## 👤 Author
 **Kamil El Harbili**
-* Engineering Student @ FSTM
+* Student @ FSTM
 * [GitHub Profile](https://github.com/KAMILELH)
